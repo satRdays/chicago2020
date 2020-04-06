@@ -115,7 +115,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     [[params.services.row.list]]
       icon = "fa-users"
       title = "Community Lead"
-      description = "Community organised and community focussed"
+      description = "Community organised and community focused"
       url = "#"
 
     [[params.services.row.list]]
@@ -170,7 +170,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
   
   # Hackathon section
   [params.hackathon]
-    enable = true
+    enable = false
     bg = false
     title = "Hackathon"
     subtitle="Can you _Hack_ it?"
@@ -184,7 +184,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
   # Talk [Portfolio] section
   [params.portfolio]
-    enable = true
+    enable = false
     # All projects defined in their own files. You can find example projects
     # at 'exampleSite/data/projects'. Copy the 'projects' folder into the 'data' directory
     # at the root of this Hugo site.
@@ -201,7 +201,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
   # Schedule section
   [params.schedule]
-    enable = true
+    enable = false
     title = "Schedule"
     bg = false
 
@@ -209,7 +209,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
   [params.about]
     enable = true
     title = "Important Dates"
-    subtitle = "Be prepared!"
+    subtitle = "What's happening when?"
     endpoint = "Conference"
 
     # The events will be listed from the top to the bottom.
@@ -217,38 +217,38 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     # Replace them with your own.
     [[params.about.events]]
       img = "1.jpg"
-      date = "First Date"
-      title = "Initial Announcement"
-      description = "We're organising a conference!"
+      date = "April 7, 2020"
+      title = "Call for Proposals Open"
+      description = "Call for proposals for satRday Chicago open."
 
     [[params.about.events]]
       img = "2.jpg"
-      date = "Second Date"
-      title = "Early Bird Ticket Sales"
-      description = "Early round of tickets now available at discount"
+      date = "April 30, 2020"
+      title = "Proposal Submission Deadline @ Midnight"
+      description = "Submissions for talks close midnight."
 
     [[params.about.events]]
       img = "3.jpg"
-      date = "Third Date"
-      title = "Call For Papers"
-      description = "Submissions for speakers are now open!"
+      date = "May 8, 2020"
+      title = "Speakers Notified"
+      description = "Those who submitted a proposal will be notified if their talk has been accepted."
 
     [[params.about.events]]
       img = "4.jpg"
-      date = "Fourth Date"
-      title = "Call For Papers Ends"
-      description = "Cut off date for speaker submissions"
+      date = "May 30, 2020"
+      title = "Online satRday Chicago 2020!"
+      description = "We look forward to seeing you at Chicago's second satRdays conference!"
   
   # Location section
   [params.location]
-    enable = true
+    enable = false
     title = "Location title"
     bg = true
     iframesrc = "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12770.336629178193!2d174.7680403!3d-36.8524341!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x868a73f26ed3e621!2sDepartment+of+Statistics%2C+University+of+Auckland!5e0!3m2!1sen!2suk!4v1533231461829"
 
   # Team section
   [params.team]
-    enable = true
+    enable = false
     # Possibility to center items
     #center = true
     title = "Team"
@@ -303,7 +303,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
   # Client section
   [params.clients_list]
-    enable = true
+    enable = false
     # Possibility to center items
     #center = true
     # Optional client title specifying the involvement
