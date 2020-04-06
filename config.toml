@@ -97,13 +97,13 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     [[params.services.row.list]]
       icon = "fa-clock-o"
       title = "Details"
-      description = "[Conference Date] at [Conference Location]"
+      description = "May 30, 2020 via Zoom"
       url = "#"
 
     [[params.services.row.list]]
-      icon = "fa-laptop"
-      title = "Hands on"
-      description = "Practical applications and workshop sessions"
+      icon = "fa-connectdevelop"
+      title = "Networking"
+      description = "Meet fellow local useRs"
       url = "#"
 
     [[params.services.row.list]]
@@ -115,19 +115,19 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     [[params.services.row.list]]
       icon = "fa-users"
       title = "Community Lead"
-      description = "Community organised, community focussed"
+      description = "Community organised and community focussed"
       url = "#"
 
     [[params.services.row.list]]
       icon = "fa-money"
       title = "Affordable"
-      description = "Only [£30]"
+      description = "Free!"
       url = "#"
 
     [[params.services.row.list]]
       icon = "fa-universal-access"
       title = "Accessible"
-      description = "Inclusive, supportive and respectful environment"
+      description = "An inclusive, supportive and respectful environment"
       url = "#"
 
   # Register section
