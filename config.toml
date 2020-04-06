@@ -20,8 +20,8 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
   # To provide some metadata for search engines feel free to add a few
   # information about you and your website.
-  name = "satRday [My City]"
-  description = "R conference in [My City]"
+  name = "satRday Chicago 2020"
+  description = "One-day R conference in Chicago, IL on May 30, 2020"
   # email = "your@email.com"
 
   # Link custom assets relative to /static
@@ -81,7 +81,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     # To change the background image of the hero, replace 'header-bg.jpg' in
     # the 'static/img' folder.
     title = "satRday Chicago"
-    subtitle = "A conference for users of the R Language on May 30, 2020"
+    subtitle = "A conference for users of the R Language on May 30, 2020!"
     bg = true
     buttonText = "Tell me more"
 
