@@ -164,7 +164,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     enable = true
     title = "Call For Papers"
     bg = false
-    CfSpage = "/test3490"
+    CfSpage = "https://docs.google.com/forms/d/e/1FAIpQLSfDssYHf5CIbIMbgnuxLz-h9BScU1GCZONl6JRPDLPmgW6Rqg/viewform?usp=sf_link"
       # Go to Organizer > My Events > Dashboard and copy the "CfS Page" string into the `CfSpage` value
     dates = "April 7 - April 30"
   
