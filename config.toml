@@ -216,25 +216,25 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     # All images are stored under 'static/img/about'.
     # Replace them with your own.
     [[params.about.events]]
-      img = "1.jpg"
+      img = "submission.jpg"
       date = "April 7, 2020"
       title = "Call for Proposals Open"
       description = "Call for proposals for satRday Chicago open."
 
     [[params.about.events]]
-      img = "2.jpg"
+      img = "submission.jpg"
       date = "April 30, 2020"
       title = "Proposal Submission Deadline @ Midnight"
       description = "Submissions for talks close midnight."
 
     [[params.about.events]]
-      img = "3.jpg"
+      img = "mic.jpg"
       date = "May 8, 2020"
       title = "Speakers Notified"
       description = "Those who submitted a proposal will be notified if their talk has been accepted."
 
     [[params.about.events]]
-      img = "4.jpg"
+      img = "satrday-logo.png"
       date = "May 30, 2020"
       title = "Online satRday Chicago 2020!"
       description = "We look forward to seeing you at Chicago's second satRdays conference!"
