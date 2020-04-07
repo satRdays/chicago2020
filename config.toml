@@ -166,7 +166,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     bg = false
     CfSpage = "/test3490"
       # Go to Organizer > My Events > Dashboard and copy the "CfS Page" string into the `CfSpage` value
-    dates = "09 Aug - 21 Sep 2018"
+    dates = "April 7 - April 30"
   
   # Hackathon section
   [params.hackathon]
