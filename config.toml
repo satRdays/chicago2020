@@ -114,7 +114,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
     [[params.services.row.list]]
       icon = "fa-users"
-      title = "Community Lead"
+      title = "Community Led"
       description = "Community organised and community focused"
       url = "#"
 
