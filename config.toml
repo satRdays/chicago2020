@@ -81,7 +81,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     # To change the background image of the hero, replace 'header-bg.jpg' in
     # the 'static/img' folder.
     title = "satRday Chicago"
-    subtitle = "A conference for useRs in the Chicagoland area on May 30, 2020!"
+    subtitle = "A virtual conference featuring useRs in the Chicagoland area on May 30, 2020!"
     bg = true
     buttonText = "Tell me more"
 
@@ -227,6 +227,12 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
       title = "Proposal Submission Deadline @ Midnight"
       description = "Submissions for talks close midnight."
 
+    [[params.about.events]]
+      img = "tickets.jpg"
+      date = "May 1, 2020"
+      title = "Registration Opens"
+      description = "Registration for satRday Chicago opens."
+      
     [[params.about.events]]
       img = "mic.jpg"
       date = "May 8, 2020"
