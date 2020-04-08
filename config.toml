@@ -228,6 +228,12 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
       description = "Submissions for talks close midnight."
 
     [[params.about.events]]
+      img = "tickets.jpg"
+      date = "May 1, 2020"
+      title = "Registration Open"
+      description = "Registration for satRday Chicago open."
+      
+    [[params.about.events]]
       img = "mic.jpg"
       date = "May 8, 2020"
       title = "Speakers Notified"
