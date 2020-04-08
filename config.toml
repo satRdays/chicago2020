@@ -21,7 +21,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
   # To provide some metadata for search engines feel free to add a few
   # information about you and your website.
   name = "satRday Chicago 2020"
-  description = "One-day R conference in Chicago, IL on May 30, 2020"
+  description = " A virtual conference featuring useRs in the Chicagoland area on May 30, 2020"
   # email = "your@email.com"
 
   # Link custom assets relative to /static
