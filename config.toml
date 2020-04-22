@@ -104,8 +104,8 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
     [[params.services.row.list]]
       icon = "fa-connectdevelop"
-      title = "Networking"
-      description = "Meet fellow local useRs"
+      title = "For a Cause"
+      description = "Supporting the Greater Chicago Food Depository"
       url = "#"
 
     [[params.services.row.list]]
@@ -117,7 +117,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     [[params.services.row.list]]
       icon = "fa-users"
       title = "Community Led"
-      description = "Community organised and community focused"
+      description = "Community organized and community focused"
       url = "#"
 
     [[params.services.row.list]]
