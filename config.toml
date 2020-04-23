@@ -256,7 +256,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
   # Team section
   [params.team]
-    enable = false
+    enable = true
     # Possibility to center items
     #center = true
     title = "Team"
@@ -270,43 +270,65 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     # Replace them with your own too.
     # Suggestion: Image size should be at least 360px*360px or the alignment might be affected.
     [[params.team.members]]
-      img = "faceholder.png"
-      name = "Organiser Name 1"
-      position = "Organiser Position 1"
-      reportsTo = ""
-      livesIn = "[Munich, Germany](#some-maps-url)"
-      scope = [
-        "Role 1 for [thing 1](#)",
-        "Role 2 for [thing 2](#)",
-        "Role 3 for [thing 3](#)"
-      ]
+      img = "angela-li.jpg"
+      name = "Angela Li"
+      position = "Center for Spatial Data Science"
+      # reportsTo = ""
+      # livesIn = "[Munich, Germany](#some-maps-url)"
+      # scope = [
+      # ""
+      #  "Role 3 for [thing 3](#)"
+      # ]
       # For bio markdown and even multiline strings are available.
-      bio = """I do things,
-      and stuff"""
+      bio = "Founder and co-organizer of [R-Ladies Chicago](https://rladieschicago.org/)"
       social = [
-        ["fa-twitter", "#"],
-        ["fa-github", "#"],
-        ["fa-linkedin", "#"]
+        ["fa-twitter", "https://twitter.com/CivicAngela"],
+        ["fa-github", "https://github.com/angela-li"],
+        ["fa-linkedin", "https://www.linkedin.com/in/angelali921/"]
       ]
 
     [[params.team.members]]
-      img = "faceholder.png"
-      name = "Organiser Name 2"
-      position = "Organiser Position 2"
+      img = "emily-riederer.jpg"
+      name = "Emily Riederer"
+      position = "Capital One"
+      bio = "Co-organizer of the [Chicago R Unconference](https://chirunconf.github.io/)"
       social = [
-        ["fa-twitter", "#"],
-        ["fa-github", "#"],
-        ["fa-linkedin", "#"]
+        ["fa-twitter", "https://twitter.com/EmilyRiederer"],
+        ["fa-github", "https://github.com/EmilyRiederer"],
+        ["fa-linkedin", "https://www.linkedin.com/in/emilyriederer/"]
       ]
 
     [[params.team.members]]
-      img = "faceholder.png"
-      name = "Organiser Name 3"
-      position = "Organiser Position 3"
+      img = "bryan_headshot.jpg"
+      name = "Bryan Berend"
+      position = "Democracy Works"
+      # bio = "Co-organizer of the [Chicago R Unconference](https://chirunconf.github.io/)"
       social = [
-        ["fa-twitter", "#"],
-        ["fa-github", "#"],
-        ["fa-linkedin", "#"]
+        # ["fa-twitter", "https://twitter.com/EmilyRiederer"],
+        ["fa-github", "https://github.com/tripleplusone"],
+        ["fa-linkedin", "https://www.linkedin.com/in/bryanberend/"]
+      ]
+      
+    [[params.team.members]]
+      img = "brandon 300x300.png"
+      name = "Brandon Allen"
+      position = "The University of Chicago"
+      bio = "Organizer of the University of Chicago Staff R User Group"
+      social = [
+        ["fa-twitter", "https://twitter.com/blallen22"],
+        ["fa-github", "https://github.com/blallen22"],
+        ["fa-linkedin", "https://www.linkedin.com/in/brandon-allen-48012b49/"]
+      ]
+      
+          [[params.team.members]]
+      img = "RGlazier_headshot_300x300.jpg"
+      name = "Rob Glazier"
+      position = "IQVIA"
+      # bio = "Organizer of the University of Chicago Staff R User Group"
+      social = [
+        # ["fa-twitter", "https://twitter.com/blallen22"],
+        # ["fa-github", "https://github.com/blallen22"],
+        ["fa-linkedin", "https://www.linkedin.com/in/robglazier/"]
       ]
 
   # Client section
