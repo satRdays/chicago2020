@@ -256,7 +256,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
   # Team section
   [params.team]
-    enable = true
+    enable = false
     # Possibility to center items
     #center = true
     title = "Team"
