@@ -268,7 +268,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
     # All team member's pictures are stored under 'static/img/team'.
     # Replace them with your own too.
-    # Suggestion: Image size should be at least 360px*360px or the alignment might be affected.
+    # Suggestion: Image size should be at least 360px*360px or the alignment might be affected. (2019 used 150x150)
     [[params.team.members]]
       img = "angela-li.jpg"
       name = "Angela Li"
@@ -299,7 +299,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
       ]
 
     [[params.team.members]]
-      img = "bryan_headshot.jpg"
+      img = "bryan_headshot_150x150.jpg"
       name = "Bryan Berend"
       position = "Democracy Works"
       # bio = "Co-organizer of the [Chicago R Unconference](https://chirunconf.github.io/)"
@@ -310,7 +310,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
       ]
       
     [[params.team.members]]
-      img = "brandon 300x300.png"
+      img = "brandon_150x150.png"
       name = "Brandon Allen"
       position = "The University of Chicago"
       bio = "Organizer of the University of Chicago Staff R User Group"
@@ -321,7 +321,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
       ]
       
           [[params.team.members]]
-      img = "RGlazier_headshot_300x300.jpg"
+      img = "RGlazier_headshot_150x150.jpg"
       name = "Rob Glazier"
       position = "IQVIA"
       # bio = "Organizer of the University of Chicago Staff R User Group"
