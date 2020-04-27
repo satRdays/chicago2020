@@ -256,14 +256,14 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
   # Team section
   [params.team]
-    enable = false
+    enable = true
     # Possibility to center items
     #center = true
     title = "Team"
     subtitle = "The people putting it together"
     bg = false
     description = ""
-    speakers = "Speakers"
+   # speakers = "Speakers"
     
 
     # All team member's pictures are stored under 'static/img/team'.
