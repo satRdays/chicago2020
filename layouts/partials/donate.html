@@ -16,4 +16,21 @@ class="bg-light-gray"
     <div>
         <p>This year's conference will be free, but we're uniting during this time to support a charity in the Chicagoland area providing essential food services to those in need. Please consider donating to our event at our <b><a href="{{ .Site.Params.donate.link }}">virtual food drive site.</a></b> Any contribution helps our local community! </p>
           </div>
+    
+        <div class="row flexbox{{ if .Site.Params.donate_list.center }} flexbox-center{{ end }}">
+
+      {{ range .Site.Params.donate }}
+        <div class="col-md-3 col-sm-6 col">
+          {{ $url := printf "img/donate/%s" .logo }}
+          {{ if .link }}
+            <a href="{{ .link }}">
+              <img src="{{ $url | absURL }}" class="img-responsive img-centered" alt="">
+            </a>
+          {{ else }}
+            <img src="{{ $url | absURL }}" class="img-responsive img-centered" alt="">
+          {{ end }}
+        </div>
+      {{ end }}
+
+    </div>
 </section>
