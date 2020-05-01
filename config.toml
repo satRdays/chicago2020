@@ -182,7 +182,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
   [params.donate_list]
     enable = true
     # Possibility to center items
-    #center = true
+    center = true
 
     # All the charity logos are stored under 'static/img/donate'.
     # Replace them with your charity's logos.
