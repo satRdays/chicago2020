@@ -312,7 +312,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
       img = "emily-riederer.jpg"
       name = "Emily Riederer"
       position = "Capital One"
-      bio = "Co-organizer of the [Chicago R Unconference](https://chirunconf.github.io/)"
+      bio = "Co-organizer of the [Chicago R Collaborative](https://chircollab.github.io/)"
       social = [
         ["fa-twitter", "https://twitter.com/EmilyRiederer"],
         ["fa-github", "https://github.com/EmilyRiederer"],
