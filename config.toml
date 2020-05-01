@@ -170,6 +170,15 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
       # Go to Organizer > My Events > Dashboard and copy the "CfS Page" string into the `CfSpage` value
     dates = "April 8 - April 30"
   
+  # Donate section
+  [params.donate]
+    enable = true
+    title = "Donate"
+    bg = false
+    cause = "Greater Chicago Food Depository"
+    causelink = "https://www.chicagosfoodbank.org/"
+    link = "https://www.myfooddrive.org/drive.php?satrday-chicago-2020"
+  
   # Hackathon section
   [params.hackathon]
     enable = false
