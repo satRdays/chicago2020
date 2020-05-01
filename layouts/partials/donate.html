@@ -19,7 +19,7 @@ class="bg-light-gray"
     
         <div class="row flexbox{{ if .Site.Params.donate_list.center }} flexbox-center{{ end }}">
 
-      {{ range .Site.Params.donate }}
+      {{ range .Site.Params.donate_img }}
         <div class="col-md-3 col-sm-6 col">
           {{ $url := printf "img/donate/%s" .logo }}
           {{ if .link }}
