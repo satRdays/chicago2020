@@ -178,6 +178,18 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     cause = "Greater Chicago Food Depository"
     causelink = "https://www.chicagosfoodbank.org/"
     link = "https://www.myfooddrive.org/drive.php?satrday-chicago-2020"
+
+  [params.donate_list]
+    enable = true
+    # Possibility to center items
+    #center = true
+
+    # All the charity logos are stored under 'static/img/donate'.
+    # Replace them with your charity's logos.
+    # Suggestion: .svg in the size of 280px*80px looks good
+    [[params.donate]]
+      logo = "fooddepository.png"
+      link = "https://www.myfooddrive.org/drive.php?satrday-chicago-2020"
   
   # Hackathon section
   [params.hackathon]
