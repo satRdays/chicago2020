@@ -153,7 +153,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
       # Supply this string as the value to `eid` above
 
   [params.tickettailor]
-    enable = false
+    enable = true
     title = "Register"
     bg = true
     eventviewid = "371473"
