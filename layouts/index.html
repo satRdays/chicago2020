@@ -25,6 +25,10 @@
   {{ partial "tickettailor.html" . }}
   {{ end }}
 
+  {{ if .Site.Params.donate.enable }}
+  {{ partial "donate.html" . }}
+  {{ end }}
+  
   {{ if .Site.Params.callforpapers.enable }}
   {{ partial "callforpapers.html" . }}
   {{ end }}
@@ -43,10 +47,6 @@
 
   {{ if .Site.Params.location.enable }}
   {{ partial "location.html" . }}
-  {{ end }}
-
-  {{ if .Site.Params.donate.enable }}
-  {{ partial "donate.html" . }}
   {{ end }}
 
   {{ if .Site.Params.hackathon.enable }}
