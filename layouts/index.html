@@ -21,12 +21,13 @@
   {{ partial "eventbrite.html" . }}
   {{ end }}
 
-  {{ if .Site.Params.tickettailor.enable }}
-  {{ partial "tickettailor.html" . }}
-  {{ end }}
-
   {{ if .Site.Params.donate.enable }}
   {{ partial "donate.html" . }}
+  {{ end }}
+
+
+  {{ if .Site.Params.tickettailor.enable }}
+  {{ partial "tickettailor.html" . }}
   {{ end }}
   
   {{ if .Site.Params.callforpapers.enable }}
