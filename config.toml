@@ -187,7 +187,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     # All the charity logos are stored under 'static/img/donate'.
     # Replace them with your charity's logos.
     # Suggestion: .svg in the size of 280px*80px looks good
-    [[params.donate]]
+    [[params.donate_img]]
       logo = "fooddepository.png"
       link = "https://www.myfooddrive.org/drive.php?satrday-chicago-2020"
   
