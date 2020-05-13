@@ -1,0 +1,15 @@
+modalID: 11
+title: Scarlett Winters
+subtitle: Client Training Specialist at Strata Decision Technology
+date: 1970-01-01
+startsAt: 00:00
+endsAt: 00:01
+img: roundicons.png
+preview: Scarlett_Winters.jpg
+client: Client Training Specialist at Strata Decision Technology
+clientLink: @Scar_Data
+category: Speaker
+description:
+abstractTitle: 'Using R to Land the Job: A Resume-Building Tutorial in Pagedown'
+abstract: 'My talk will empower attendees to build a reproducible, 21st century resume using the new pagedown package. Attendees will have the tools to prove to employers they know how to code in R from the moment they submit their job application.'
+talk: true
