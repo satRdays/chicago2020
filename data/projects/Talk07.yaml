@@ -1,0 +1,15 @@
+modalID: 7
+title: Haoen Cui
+subtitle: Data Scientist at Uptake
+date: 1970-01-01
+startsAt: 00:00
+endsAt: 00:01
+img: roundicons.png
+preview: Haoen_Cui.jpg
+client: Data Scientist at Uptake
+clientLink: NA
+category: Speaker
+description:
+abstractTitle: 'Fitting Insurance Claim Data with Coverage Modification'
+abstract: 'Insurance claims amounts are often subject to coverage modifications (deductibles, limits, and co-insurance). In this talk, we will cover how one can construct the transformed distribution and empirically estimate the parameters of the original loss distribution through univariate data fitting. In addition, we will show how one can simulate claims data by specifying an underlying loss distribution along with policy parameters. Throughout the talk, the {actuar} package will be used.'
+talk: true
