@@ -12,4 +12,4 @@ category: Speaker
 description:
 abstractTitle: 'Docker Based r-devel Pre-Release CRAN Package Testing'
 abstract: 'Testing your package before uploading to CRAN can be a bear!  You’ve just done all this great work to polish and test your package on your R setup and now (as CRAN requires) you need to test it all again on the latest development version of R, called r-devel.  Skipping this is tempting but often a more time consuming battle than testing and iterating locally (also, ethics, amiright).
-talk: true"
+talk: true
