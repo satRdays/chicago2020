@@ -212,8 +212,8 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     # at 'exampleSite/data/projects'. Copy the 'projects' folder into the 'data' directory
     # at the root of this Hugo site.
     # For more informtion take a look at the README.
-    title = "Talks"
-    subtitle = "Who's saying what"
+    title = "Speakers"
+    subtitle = "Our speakers for SatRday Chicago 2020. Click on their profiles for more information about their talks!"
     bg = true
 
     [params.portfolio.modal]
