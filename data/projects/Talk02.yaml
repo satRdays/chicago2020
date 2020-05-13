@@ -1,13 +1,15 @@
 modalID: 2
-title: "Second Talk"
-subtitle: "Second Subtitle"
+title: Alexis Johnson-Gresham
+subtitle: Senior Data Analyst at Brooklyn Data Co.
 date: 1970-01-01
-startsAt: 00:01
-endsAt: 00:02
+startsAt: 00:00
+endsAt: 00:01
 img: roundicons.png
-preview: faceholder.png
-client: Speaker Two
-clientLink: "#"
-category: Category 2
-description: "Describe 2"
+preview: Alexis_Johnson-Gresham.jpg
+client: Senior Data Analyst at Brooklyn Data Co.
+clientLink: @AyRenay
+category: Speaker
+description:
+abstractTitle: 'Useful data visualization'
+abstract: 'Data visualization is as much of a design and narrative challenge as it is a reflection of analytical effort. This talk will cover strategies for making visualizations that go beyond simply presenting information to get to the heart of stakeholder needs.'
 talk: true
