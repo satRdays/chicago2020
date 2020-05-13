@@ -11,5 +11,5 @@ clientLink: https://twitter.com/_Brian_Burns
 category: Speaker
 description:
 abstractTitle: 'Docker Based r-devel Pre-Release CRAN Package Testing'
-abstract: 'Testing your package before uploading to CRAN can be a bear!  You’ve just done all this great work to polish and test your package on your R setup and now (as CRAN requires) you need to test it all again on the latest development version of R, called r-devel.  Skipping this is tempting but often a more time consuming battle than testing and iterating locally (also, ethics, amiright).
+abstract: 'Testing your package before uploading to CRAN can be a bear!  You’ve just done all this great work to polish and test your package on your R setup and now (as CRAN requires) you need to test it all again on the latest development version of R, called r-devel.  Skipping this is tempting but often a more time consuming battle than testing and iterating locally (also, ethics, amiright). In this talk, I will demonstrate a process to build your own CRAN compliant testing process from publicly maintained docker images in a time saving and repeatable fashion.  It’s the same process used to prepare pkgnet submissions. The step-by-step is available on the CONTRIBUTING page in the github repository. Some knowledge of docker and/or CRAN submission process would be helpful but is not a must have.'
 talk: true
