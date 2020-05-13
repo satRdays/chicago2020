@@ -1,0 +1,15 @@
+modalID: 12
+title: Susan Paykin
+subtitle: Graduate Student at the University of Chicago Harris School of Public Policy
+date: 1970-01-01
+startsAt: 00:00
+endsAt: 00:01
+img: roundicons.png
+preview: Susan_Paykin.jpg
+client: Graduate Student at the University of Chicago Harris School of Public Policy
+clientLink: @spaykin
+category: Speaker
+description:
+abstractTitle: 'Mapping Food Systems in R'
+abstract: 'Food in general, and healthy foods in particular, have long been unequally distributed and inaccessible in the U.S. The current public health and economic crises have made it even more difficult for people to find, access and afford fresh foods, especially as trips to the grocery store have become more difficult, or in many places, impossible. There has been a tremendous surge in food system mapping efforts in the wake of COVID-19. Most new food system mapping efforts are currently happening in Esri/ArcGIS; however, it is also possible to use R to map, analyze, and share findings with the public and policymakers in user-friendly and interactive formats.  Food systems are more than grocery stores, restaurants, and farmers markets; they are also the “behind-the-scenes” players such as farms, processors, distributors, certifiers, food hubs, food pantries, soup kitchens, institutional buyers, and many more. The location, as well as size and scope of each of these links in the food system value chain has significant implications for how communities can address food insecurity. This talk will discuss using R for food system asset mapping and gap analysis projects in efforts to expand food access and strengthen local food economies.'
+talk: true
