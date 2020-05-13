@@ -1,0 +1,15 @@
+modalID: 13
+title: Sydney Purdue
+subtitle: Research Analyst at the Cook County Sheriff's Office
+date: 1970-01-01
+startsAt: 00:00
+endsAt: 00:01
+img: roundicons.png
+preview: Sydney_Purdue.jpg
+client: Research Analyst at the Cook County Sheriff's Office
+clientLink: @Sydney_NotAUS
+category: Speaker
+description:
+abstractTitle: 'Data Visualization'
+abstract: 'How can we make visualizations more accessible to communities beyond practitioners, whether that be consumers, readers of news articles, executives, etc.? How do we create effective and responsible visualizations? What role does visualization play in your understanding vs. presentation of data? How do you plan visualizations? How do we feel about scrollytelling? Any favorite tools/tips/tricks beyond our common tools in R like ggplot2, etc.?'
+talk: true
