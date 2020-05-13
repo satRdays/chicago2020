@@ -9,7 +9,7 @@ preview: Elizabeth_Nelson.jpg
 client: Graduate Student at the University of Chicago
 clientLink: NA
 category: Speaker
-description:
+description: ''
 abstractTitle: 'Did we just make a web app? Using R Shiny in Production: Lessons and Horizons'
 abstract: 'Would plan to discuss the advantages and disadvantages of R Shiny as a tool for non-software engineers to build and deploy web applications (in comparison to Django and similar frameworks), including a discussion of what functionality currently exists in R Shiny, and the evolving world of porting over more traditional software engineering functionality into R Shiny capability sets (ex. unit testing, UI testing, Dockerization, package version control, easy-start frameworks like Golem).'
 talk: true
