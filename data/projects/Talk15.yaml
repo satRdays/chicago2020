@@ -1,0 +1,15 @@
+modalID: 15
+title: Zaynaib Giwa
+subtitle: Teaching Assistant at Northwestern University Coding Bootcamp
+date: 1970-01-01
+startsAt: 00:00
+endsAt: 00:01
+img: roundicons.png
+preview: Ola_Giwa.jpg
+client: Teaching Assistant at Northwestern University Coding Bootcamp
+clientLink: https://twitter.com/amazingspeciali
+category: Speaker
+description:
+abstractTitle: 'Using Data Science for Social Good'
+abstract: 'How do we use data science to make an impact on a local level via neighborhoods or helping local activist?'
+talk: true
