@@ -9,7 +9,7 @@ preview: Krishna_Jarugumilli.jpg
 client: Data Scientist at CN
 clientLink: NA
 category: Speaker
-description:
+description: ''
 abstractTitle: 'Hot bearing failure prediction using R'
 abstract: 'Predicting bearing failures ahead of time has several potential benefits for the railroads that include fewer online stops, train delays, and most importantly improvement in system safety. In this talk, we present the data science models and workflows using R that help predict the hot bearing failures. This model enables the Mechanical team at CN to proactively perform predictive maintenance operations in a timely manner.'
 talk: true
