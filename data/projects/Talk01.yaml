@@ -9,7 +9,7 @@ preview: Adam_Austin.jpg
 client: Data Science Manager at Allstate
 clientLink: @just_add_data
 category: Speaker
-description:
+description: ''
 abstractTitle: 'The need for speed, or what is a profile and why would I want one?'
 abstract: 'Among the uninitiated, R is known for being slow.  While this reputation is not deserved, we nevertheless sometimes write functions that run slowly for one reason or another.  The process of “profiling” allows us to identify bottlenecks in functions by exposing the lines of code that take the most time to execute.  Let’s dig into R’s profiling tools and learn some tips for speeding up our code.'
 talk: true
