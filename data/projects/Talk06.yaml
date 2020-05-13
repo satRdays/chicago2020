@@ -9,7 +9,7 @@ preview: Eric_Langowski.jpg
 client: Data Scientist at the Center for Municipal Finance
 clientLink: NA
 category: Speaker
-description:
+description: ''
 abstractTitle: 'PropeRty Taxes: Transparency, Equity, and R'
 abstract: 'This talk features recent work by the Center for Municipal Finance, a research institute at the Harris School of Public Policy, on transparency and equity in property taxes. I will present a newly released R package for property tax analysis, its application in a nationwide analysis of over 38 million property sales, and a new tool from the Center which allows participants to download detailed reports (generated in R Markdown) from over 2500 counties. I will also present a case study featuring the Center's recent work analyzing assessments in Detroit, Michigan.'
 talk: true
