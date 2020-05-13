@@ -9,7 +9,7 @@ preview: Tristán_Ignacio_Gramsch_Calvo.jpg
 client: Data Science Fellow at the Cook County Assessor's office
 clientLink: NA
 category: Speaker
-description:
+description: ''
 abstractTitle: 'Building a more transparent government using Shiny'
 abstract: 'Transparent governmental institutions thrive. In an effort to be more transparent, the Cook County Assessor’s Office (CCAO) plans to release analysis tools for public use. Some of these tools will be shiny apps. The CCAO conducts statistical mass appraisals of the values of all properties in Cook County for purposes of property taxation. The CCAO’s performance can be analyzed with a ‘ratio study’: an analysis comparing the CCAO’s estimated values to actual sale values. With Shiny apps, we have an opportunity to improve public understanding of the mass appraisal process and performance. Shiny apps are appealing, allow interaction with the user, and can lead to feedback. However, building a shiny app for public release introduces important questions. How to adapt Shiny to meet your needs? What are the best practices to design a shiny workflow for public release? How the characteristics of the end-users shape the contents of the app? In this talk I show how to build an interactive ‘ratio study’ using Shiny. This talk will cover how to build a Shiny app, best workflows practices, and how to help end-users to make sense of the assessment process. Jump in!'
 talk: true
