@@ -9,7 +9,7 @@ preview: Edward_Visel.jpg
 client: Data Scientist at Uptake
 clientLink: https://twitter.com/alistaire
 category: Speaker
-description:
+description: ''
 abstractTitle: 'Querying a directory of files with Apache Drill'
 abstract: 'Sometimes, in one way or another, you end up with a directory structure full of similarly-structured data files which in an ideal world would be in a database for easier querying. [Apache Drill](https://drill.apache.org/) and [sergeant](https://hrbrmstr.github.io/sergeant/) allow you to treat your disk (or an S3 bucket, or lots of other data sources!) as a database, so you can quickly query across files and subset to the parts you care about before collecting the data into R's memory.
 talk: true
