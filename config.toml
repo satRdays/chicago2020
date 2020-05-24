@@ -99,7 +99,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     [[params.services.row.list]]
       icon = "fa-clock-o"
       title = "Details"
-      description = "May 30, 2020 via Zoom"
+      description = "May 30, 2020 via Zoom. To attend, you must register at the registration link below."
       url = "#"
 
     [[params.services.row.list]]
