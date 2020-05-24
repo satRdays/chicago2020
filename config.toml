@@ -368,9 +368,9 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
       logo = "CRC_Logo.jpg"
       link = "#"
 
-    # [[params.clients]]
-    # logo = "designmodo.jpg"
-    # link = "#"
+    [[params.clients]]
+    logo = "microsoft.png"
+    link = "#"
 
     #[[params.clients]]
     #  logo = "themeforest.jpg"
