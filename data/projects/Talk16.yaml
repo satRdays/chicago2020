@@ -1,1 +1,19 @@
-  
+modalID: 15
+title: Dirk Eddelbuettel
+subtitle: Contributor, Package Developer, and R Foundation Board Member
+date: 1970-01-01
+startsAt: 00:00
+endsAt: 00:01
+img: roundicons.png
+preview: Dirk_Eddelbuettel.jpg
+client: Contributor, Package Developer, and R Foundation Board Member
+clientLink: https://twitter.com/eddelbuettel
+category: Speaker
+description: ''
+abstractTitle: 'The Rocker Project: Bringing Docker to R. A Brief/Partial Introduction for R Users'
+abstract: 'We motivate and introduce Docker and a lightweight and portable 
+  encapsulation of single processes. We then introduce and descibe some
+  Rocker containers from the Rocker Project has helped R users since its
+  inception in 2014 with a variety of containers for different use cases and
+  scenarios.'
+talk: true
