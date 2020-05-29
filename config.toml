@@ -193,17 +193,16 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
   
   # Hackathon section
   [params.hackathon]
-    enable = false
+    enable = true
     bg = false
-    title = "Hackathon"
-    subtitle="Can you _Hack_ it?"
-    brief1="You _can_ put markdown in the briefs section" 
-    brief2="But you __MUST__ hardcode html links <a href= 'www.google.com' > google  </a> for further info."
-    location= "The place we're going it"
-    dates = "15 November 2019"
-    times= "13:00-17:30"  
-    website_name="google"
-    website_url="www.google.com"
+    title = "Conference Livestream"
+    subtitle="Watch the conference live via YouTube!"
+    brief1="If you did not register for satRday Chicago 2020, you can still watch the conference live via this link: <a href= 'https://www.youtube.com/watch?v=quFhQvizBE8' > https://www.youtube.com/watch?v=quFhQvizBE8  </a>" 
+    brief2="<html>
+             <body>
+              <iframe width="560" height="315" src="https://www.youtube.com/embed/quFhQvizBE8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+             </body>
+            </html>"
 
   # Talk [Portfolio] section
   [params.portfolio]
