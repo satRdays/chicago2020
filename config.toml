@@ -193,7 +193,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
   
   # Hackathon section
   [params.hackathon]
-    enable = true
+    enable = false
     bg = false
     title = "Conference Livestream"
     subtitle="Watch the conference live via YouTube!"
