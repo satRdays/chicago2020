@@ -132,6 +132,19 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
       description = "An inclusive, supportive and respectful environment"
       url = "#"
 
+  # Hackathon section
+  [params.hackathon]
+    enable = true
+    bg = false
+    title = "Conference Livestream"
+    subtitle="Watch the conference live via YouTube!"
+    brief1="If you did not register for satRday Chicago 2020, you can still watch the conference live via this link: <a href= 'https://www.youtube.com/watch?v=quFhQvizBE8' > https://www.youtube.com/watch?v=quFhQvizBE8  </a>" 
+    # brief2="<html>
+   #           <body>
+   #            <iframe width="560" height="315" src="https://www.youtube.com/embed/quFhQvizBE8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   #           </body>
+   #          </html>"
+
   # Register section
   # You only need ONE of these active
   [params.tito]
@@ -191,18 +204,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
       logo = "fooddepository.png"
       link = "https://www.myfooddrive.org/drive.php?satrday-chicago-2020"
   
-  # Hackathon section
-  [params.hackathon]
-    enable = false
-    bg = false
-    title = "Conference Livestream"
-    subtitle="Watch the conference live via YouTube!"
-    brief1="If you did not register for satRday Chicago 2020, you can still watch the conference live via this link: <a href= 'https://www.youtube.com/watch?v=quFhQvizBE8' > https://www.youtube.com/watch?v=quFhQvizBE8  </a>" 
-    # brief2="<html>
-   #           <body>
-   #            <iframe width="560" height="315" src="https://www.youtube.com/embed/quFhQvizBE8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-   #           </body>
-   #          </html>"
+
 
   # Talk [Portfolio] section
   [params.portfolio]
