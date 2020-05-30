@@ -138,7 +138,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     bg = false
     title = "Conference Livestream"
     subtitle="Watch the conference live via YouTube!"
-    brief1="If you did not register for satRday Chicago 2020, you can still watch the conference live via this link: <a href= 'https://www.youtube.com/watch?v=quFhQvizBE8' > https://www.youtube.com/watch?v=quFhQvizBE8  </a>" 
+    brief1="If you did not register for satRday Chicago 2020, you can still watch the conference live via this link: <a href= 'https://www.youtube.com/watch?v=xA7l7N2ktFk' > https://www.youtube.com/watch?v=xA7l7N2ktFk  </a>" 
     # brief2="<html>
    #           <body>
    #            <iframe width="560" height="315" src="https://www.youtube.com/embed/quFhQvizBE8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
