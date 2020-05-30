@@ -25,7 +25,10 @@
   {{ partial "donate.html" . }}
   {{ end }}
 
-
+  {{ if .Site.Params.hackathon.enable }}
+  {{ partial "hackathon.html" . }}
+  {{ end }}
+  
   {{ if .Site.Params.tickettailor.enable }}
   {{ partial "tickettailor.html" . }}
   {{ end }}
@@ -48,10 +51,6 @@
 
   {{ if .Site.Params.location.enable }}
   {{ partial "location.html" . }}
-  {{ end }}
-
-  {{ if .Site.Params.hackathon.enable }}
-  {{ partial "hackathon.html" . }}
   {{ end }}
 
   {{ if .Site.Params.team.enable }}
